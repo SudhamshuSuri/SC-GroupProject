@@ -1,0 +1,595 @@
+District,Mandal,Date,Rain (mm),Min Temp (°C),Max Temp (°C),Min Humidity (%),Max Humidity (%),Min Wind Speed (Kmph),Max Wind Speed (Kmph)
+Adilabad,Adilabad Rural,,0.03,20.76,35.25,30.28,69.58,0.22,12.54
+Adilabad,Adilabad Urban,,0.22,20.43,37.11,27.24,81.79,0.00,7.53
+Adilabad,Bazarhathnoor,,2.03,17.49,33.17,35.62,83.77,0.00,5.31
+Adilabad,Bela,,0.39,19.95,36.44,17.14,69.83,0.03,10.58
+Adilabad,Bheempoor,,0.02,19.50,36.87,26.32,71.30,0.00,9.22
+Adilabad,Boath,,1.64,17.77,35.37,32.02,82.65,0.00,9.35
+Adilabad,Gadiguda,,0.23,20.95,34.74,25.85,73.27,0.01,7.02
+Adilabad,Gudihathnur,,0.23,20.14,35.70,35.70,85.57,0.35,6.45
+Adilabad,Ichoda,,0.78,18.64,34.29,31.97,77.93,0.21,4.89
+Adilabad,Inderavelly,,1.27,19.78,34.26,29.86,72.09,0.00,11.31
+Adilabad,Jainad,,0.16,19.18,36.87,21.99,77.08,0.00,9.33
+Adilabad,Mavala,,0.18,20.05,35.31,27.55,70.26,0.00,7.53
+Adilabad,Narnoor,,0.66,21.08,33.40,29.45,68.34,0.23,7.13
+Adilabad,Neradigonda,,0.52,18.25,35.15,28.39,73.75,0.00,9.76
+Adilabad,Sirikonda,,0.42,19.45,35.90,26.06,76.18,0.35,9.09
+Adilabad,Talamadugu,,0.18,20.27,36.56,34.43,85.15,0.00,9.24
+Adilabad,Tamsi,,0.08,20.43,34.85,43.28,83.78,0.00,7.75
+Adilabad,Utnur,,0.29,19.31,34.06,28.11,76.94,0.00,11.43
+Bhadradri Kothagudem,Allapalli,,5.43,20.07,35.30,34.58,89.77,0.14,8.07
+Bhadradri Kothagudem,Annapureddipalle,,2.68,20.82,33.89,34.11,97.47,0.16,9.63
+Bhadradri Kothagudem,Aswapuram,,4.59,21.58,37.06,38.87,95.73,0.00,0.89
+Bhadradri Kothagudem,Aswaraopeta,,3.76,20.59,33.43,43.88,96.33,0.00,9.62
+Bhadradri Kothagudem,Bhadrachalam,,3.38,21.22,36.15,42.50,97.66,0.00,5.48
+Bhadradri Kothagudem,Burgampadu,,4.48,21.23,36.10,44.14,99.44,0.02,6.46
+Bhadradri Kothagudem,Chandrugonda,,1.83,21.33,35.03,30.45,90.59,0.00,17.05
+Bhadradri Kothagudem,Cherla,,3.49,21.70,35.13,44.41,87.93,0.01,6.48
+Bhadradri Kothagudem,Chunchupally,,2.33,20.37,36.28,37.59,83.97,0.00,4.58
+Bhadradri Kothagudem,Dammapeta,,3.19,19.16,36.49,30.72,99.80,0.00,12.07
+Bhadradri Kothagudem,Dummugudem,,4.28,21.68,34.95,41.08,89.40,0.00,1.68
+Bhadradri Kothagudem,Gundala,,3.49,20.31,34.05,35.64,91.97,0.00,10.53
+Bhadradri Kothagudem,Julurpad,,2.78,21.69,37.17,42.04,87.52,0.00,8.14
+Bhadradri Kothagudem,Karakagudem,,3.06,20.74,35.60,40.26,91.68,0.31,7.25
+Bhadradri Kothagudem,Kothagudem,,2.70,20.65,35.69,39.62,90.47,0.00,6.48
+Bhadradri Kothagudem,Laxmidevipalli,,2.70,20.06,35.92,41.93,90.58,0.00,3.62
+Bhadradri Kothagudem,Manuguru,,3.75,22.44,36.45,34.79,84.97,0.00,2.93
+Bhadradri Kothagudem,Mulakalapalle,,2.65,20.13,35.49,35.76,97.05,0.04,6.87
+Bhadradri Kothagudem,Palawancha,,2.87,19.80,36.96,35.20,94.95,0.02,6.97
+Bhadradri Kothagudem,Pinapaka,,2.53,21.52,34.64,33.32,90.92,0.01,12.25
+Bhadradri Kothagudem,Sujathanagar,,1.04,21.46,35.69,29.16,85.22,0.00,8.30
+Bhadradri Kothagudem,Tekulapalle,,1.24,20.35,35.13,35.01,91.05,0.00,7.41
+Bhadradri Kothagudem,Yellandu,,2.11,21.12,35.75,39.38,89.29,0.00,6.53
+Hanumakonda,Atmakur,,2.25,21.08,34.66,47.91,96.54,0.00,9.60
+Hanumakonda,Bheemadevarapalle,,1.95,19.99,33.84,42.62,85.67,0.00,3.40
+Hanumakonda,Damera,,1.35,20.75,34.85,34.86,94.01,0.00,10.59
+Hanumakonda,Dharmasagar,,1.41,20.73,36.35,28.85,84.61,0.00,5.39
+Hanumakonda,Elkathurthi,,2.37,21.50,34.39,40.24,84.73,0.00,3.82
+Hanumakonda,Hanumakonda,,1.55,21.67,32.75,39.78,83.04,0.10,7.11
+Hanumakonda,Hasanparthy,,2.10,22.07,33.95,42.18,86.00,0.00,6.16
+Hanumakonda,Inole,,2.60,20.48,34.28,29.37,91.58,0.00,10.22
+Hanumakonda,Kamalapur,,0.46,21.55,34.75,37.99,93.25,0.11,11.26
+Hanumakonda,Khazipet,,1.82,22.12,33.04,40.42,83.73,0.01,5.47
+Hanumakonda,Nadikuda,,0.98,21.06,35.01,41.92,92.51,0.00,7.14
+Hanumakonda,Parkal,,1.05,22.30,32.94,41.71,86.85,0.13,10.28
+Hanumakonda,Shayampet,,1.43,22.09,34.16,47.02,96.17,0.00,6.46
+Hanumakonda,Velair,,2.98,19.71,33.27,44.11,92.91,0.00,6.18
+Hyderabad,Amberpet,,1.01,22.47,33.13,27.06,76.87,0.01,2.47
+Hyderabad,Ameerpet,,1.46,22.95,33.65,27.77,68.15,0.01,4.34
+Hyderabad,Asifnagar,,1.48,22.55,33.68,19.05,74.56,0.00,45.50
+Hyderabad,Bahadurpura,,1.93,21.53,33.45,19.97,77.81,0.00,26.95
+Hyderabad,Bandlaguda,,1.61,21.11,33.21,26.85,71.78,0.00,10.46
+Hyderabad,Charminar,,1.42,22.05,33.44,27.27,72.06,0.00,5.41
+Hyderabad,Golkonda,,1.35,19.81,33.26,24.21,78.97,0.00,11.32
+Hyderabad,Himayatnagar,,0.85,22.96,32.78,24.15,70.76,0.00,6.22
+Hyderabad,Khairatabad,,1.18,22.57,34.35,25.83,69.72,0.00,26.14
+Hyderabad,Maredpally,,1.52,19.14,32.86,25.29,79.51,0.00,19.69
+Hyderabad,Musheerabad,,1.57,22.02,32.88,24.55,74.23,0.00,4.82
+Hyderabad,Nampally,,1.33,22.38,34.15,26.98,70.84,0.00,36.77
+Hyderabad,Saidabad,,1.24,21.95,33.97,24.92,79.19,0.00,6.05
+Hyderabad,Secunderabad,,1.75,22.25,33.10,26.01,76.60,0.00,6.84
+Hyderabad,Shaikpet,,1.41,20.26,34.58,25.03,72.66,0.00,37.86
+Hyderabad,Tirumalgiri,,2.06,20.70,33.66,35.56,79.15,0.00,8.62
+Jagtial,Beerpur,,0.58,19.17,35.57,34.14,89.70,0.00,4.34
+Jagtial,Buggaram,,0.85,21.63,34.55,41.69,97.19,0.00,5.83
+Jagtial,Dharmapuri,,0.59,20.16,36.92,31.20,95.36,0.00,10.22
+Jagtial,Gollapalle,,0.57,20.14,34.13,37.58,95.02,0.00,5.94
+Jagtial,Ibrahimpatnam,,0.49,20.97,36.04,35.55,93.61,0.00,8.15
+Jagtial,Jagityal_Rural,,1.05,21.72,35.17,40.03,88.69,0.00,6.54
+Jagtial,Jagtial,,1.16,21.39,34.75,41.26,93.95,0.00,5.74
+Jagtial,Kathlapur,,1.19,21.25,35.19,36.27,92.56,0.00,6.84
+Jagtial,Kodimial,,1.67,20.19,33.50,30.65,86.08,0.00,7.18
+Jagtial,Koratla,,0.18,19.85,35.33,28.83,97.36,0.00,6.76
+Jagtial,Malial,,2.15,20.33,34.99,36.86,86.34,0.00,6.51
+Jagtial,Mallapur,,0.50,20.52,36.95,34.85,95.19,0.00,9.08
+Jagtial,Medipalle,,1.04,19.58,35.17,33.58,93.23,0.00,8.41
+Jagtial,Metpalle,,0.14,20.36,35.05,33.36,94.63,0.00,6.55
+Jagtial,Pegadapalle,,1.59,19.38,34.15,45.12,96.13,0.00,5.34
+Jagtial,Raikal,,0.40,19.96,35.48,33.54,93.53,0.00,7.04
+Jagtial,Sarangapur,,0.76,20.93,35.61,42.69,88.79,0.00,7.71
+Jagtial,Velgatoor,,0.66,21.08,36.73,37.60,96.25,0.00,11.52
+Jangaon,Bachannapeta,,1.79,19.03,36.11,29.08,89.69,0.00,11.68
+Jangaon,Chilpur,,2.75,19.46,34.86,36.11,92.49,0.00,5.05
+Jangaon,Devaruppala,,1.66,20.19,33.69,39.20,94.36,0.00,14.35
+Jangaon,Ganpur_Stn,,2.26,20.40,35.42,35.62,90.01,0.07,11.18
+Jangaon,Jangaon,,1.99,19.76,34.30,35.96,92.57,0.11,11.03
+Jangaon,Kodakandla,,2.59,21.02,34.07,39.55,94.31,0.09,10.25
+Jangaon,Lingalaghanpur,,1.50,20.04,33.06,40.34,97.20,0.01,9.50
+Jangaon,Narmetta,,2.60,20.99,32.82,42.72,86.98,0.11,7.91
+Jangaon,Palakurthi,,1.79,19.05,35.33,35.08,97.26,0.00,10.36
+Jangaon,Raghunathpalle,,1.63,19.96,34.09,41.70,96.45,0.00,8.40
+Jangaon,Tharigoppula,,2.75,20.15,32.83,38.95,88.31,0.00,13.51
+Jangaon,Zaffergadh,,1.66,20.49,35.04,36.95,96.21,0.00,10.56
+Jayashankar,Bhupalpalle,,1.25,23.33,35.59,39.04,87.53,0.00,5.29
+Jayashankar,Chityal,,2.98,20.75,35.58,35.45,91.36,0.14,9.08
+Jayashankar,Ghanapur_Mulug,,1.40,21.83,35.26,46.21,92.17,0.00,4.63
+Jayashankar,Kataram,,0.70,20.97,36.28,33.38,91.50,0.00,7.34
+Jayashankar,Mahadevpur,,0.90,20.54,36.78,32.95,95.13,0.00,7.98
+Jayashankar,Malharrao,,1.29,20.54,35.86,38.98,93.28,0.00,7.15
+Jayashankar,Mogullapalle,,1.76,20.55,34.57,44.08,94.81,0.12,9.65
+Jayashankar,Mutharam_Mahadevpur,,1.42,20.75,35.21,41.64,84.25,0.29,12.44
+Jayashankar,Palmela,,0.79,20.75,35.03,37.60,89.25,0.00,17.35
+Jayashankar,Regonda,,0.90,20.96,35.00,43.46,95.70,0.00,10.20
+Jayashankar,Tekumatla,,2.45,21.03,35.65,43.92,97.93,0.03,7.98
+Jogulamba Gadwal,Aiza,,0.34,18.01,35.88,23.03,79.99,0.00,14.17
+Jogulamba Gadwal,Alampur,,0.70,20.59,37.41,24.04,74.24,0.00,14.65
+Jogulamba Gadwal,Dharur,,0.80,19.16,34.10,21.79,81.07,0.00,12.38
+Jogulamba Gadwal,Gadwal,,1.14,19.52,35.64,22.18,74.63,0.00,7.89
+Jogulamba Gadwal,Ghattu,,0.68,20.64,33.83,25.25,68.64,0.01,11.26
+Jogulamba Gadwal,Itikyal,,0.54,19.54,35.10,22.85,85.47,0.00,7.58
+Jogulamba Gadwal,Kaloor_Timmanadoddi,,1.90,19.74,35.21,19.22,72.26,0.00,15.52
+Jogulamba Gadwal,Maldakal,,0.34,18.11,34.41,27.95,85.25,0.02,10.00
+Jogulamba Gadwal,Manopad,,0.53,19.44,34.20,25.88,69.53,0.17,12.77
+Jogulamba Gadwal,Rajoli,,0.51,18.91,35.01,21.74,86.62,0.06,7.58
+Jogulamba Gadwal,Undavelli,,0.79,18.29,34.97,22.71,81.78,0.00,13.85
+Jogulamba Gadwal,Waddepalle,,0.19,19.24,34.31,25.42,77.27,0.00,6.78
+Kamareddy,Banswada,,1.78,18.88,35.04,38.84,89.14,0.00,6.11
+Kamareddy,Bhiknur,,1.70,20.23,36.15,31.93,94.57,0.00,7.51
+Kamareddy,Bibipet,,0.29,18.99,32.91,35.72,90.80,0.00,9.35
+Kamareddy,Bichkunda,,0.83,19.01,34.62,23.29,85.46,0.00,9.66
+Kamareddy,Birkoor,,1.27,18.91,33.57,38.50,91.82,0.00,6.86
+Kamareddy,Domakonda,,2.44,19.32,33.28,34.00,95.05,0.00,6.32
+Kamareddy,Gandhari,,0.83,17.02,35.12,20.55,92.34,0.00,9.65
+Kamareddy,Jukkal,,0.54,18.83,34.05,29.69,75.72,0.00,11.53
+Kamareddy,Kamareddy,,1.32,19.44,34.64,24.10,88.87,0.00,13.66
+Kamareddy,Lingampet,,0.87,18.81,33.49,22.21,92.55,0.00,7.93
+Kamareddy,Machareddy,,1.33,18.70,33.08,32.30,93.50,0.00,10.99
+Kamareddy,Madnur,,1.01,18.15,34.85,27.70,81.19,0.00,11.35
+Kamareddy,Naga_Reddipet,,1.19,19.18,33.14,30.74,82.33,0.00,6.28
+Kamareddy,Nasurullabad,,0.69,18.05,33.91,35.84,94.86,0.00,9.85
+Kamareddy,Nizamsagar,,0.96,19.21,34.87,28.24,84.45,0.00,9.64
+Kamareddy,Pedda Kodapgal,,0.55,19.82,34.24,30.85,83.19,0.00,6.36
+Kamareddy,Pitlam,,0.66,20.63,34.21,32.56,82.91,0.00,10.13
+Kamareddy,Rajampet,,1.71,20.61,33.13,34.42,81.11,0.04,12.64
+Kamareddy,Ramareddy,,1.04,19.46,33.27,34.78,82.85,0.00,7.34
+Kamareddy,Sadasivanagar,,1.68,20.89,32.60,32.52,76.61,0.00,7.18
+Kamareddy,Tadwai,,1.45,21.14,34.67,33.14,78.29,0.01,8.60
+Kamareddy,Yellareddy,,0.94,18.43,33.69,37.95,93.56,0.00,5.54
+Karimnagar,Chigurumamidi,,2.65,19.61,33.86,35.90,95.59,0.03,9.10
+Karimnagar,Choppadandi,,1.86,20.43,33.49,47.88,95.74,0.00,6.61
+Karimnagar,Ellandakunta,,1.65,21.59,34.98,39.09,93.47,0.13,7.85
+Karimnagar,Gangadhara,,1.71,19.62,33.15,38.94,93.29,0.00,6.48
+Karimnagar,Gannervaram,,1.06,20.30,34.40,38.71,92.42,0.00,5.62
+Karimnagar,Huzurabad,,2.65,20.74,33.47,42.85,87.58,0.00,4.05
+Karimnagar,Jammikunta,,2.60,22.43,35.21,35.57,82.21,0.05,7.55
+Karimnagar,Karimnagar,,1.52,22.56,34.53,38.06,77.82,0.80,9.05
+Karimnagar,Karimnagar_Rural,,2.71,20.87,33.41,43.67,88.33,0.04,5.62
+Karimnagar,Kothapalle,,1.01,20.34,34.15,41.02,95.29,0.16,10.29
+Karimnagar,Manakondur,,1.24,20.27,35.43,36.68,96.54,0.00,9.85
+Karimnagar,Ramadugu,,2.02,20.02,32.88,41.81,87.16,0.00,3.45
+Karimnagar,Shankarapatnam,,2.84,20.35,34.64,43.06,96.78,0.00,7.12
+Karimnagar,Thimmapur,,1.66,19.65,33.75,39.61,90.57,0.05,10.50
+Karimnagar,V_Saidapur,,2.30,20.89,33.68,39.56,84.80,0.00,7.14
+Karimnagar,Veenavanka,,2.29,22.86,34.69,34.77,78.82,0.05,9.05
+Khammam,Bonakal,,1.58,19.89,35.65,41.62,99.47,0.00,4.75
+Khammam,Chinthakani,,1.90,19.95,35.98,42.76,99.11,0.00,5.95
+Khammam,Enkuru,,4.23,20.95,35.20,38.45,93.73,0.07,9.43
+Khammam,Kalluru,,2.06,21.32,35.35,44.31,97.28,0.01,7.39
+Khammam,Kamepalle,,1.24,21.20,35.06,41.14,91.68,0.00,6.85
+Khammam,Khammam_Rural,,1.46,22.96,35.77,43.35,93.79,0.25,6.15
+Khammam,Khammam_Urban,,1.43,22.25,36.34,37.06,99.23,0.00,9.86
+Khammam,Konijerla,,2.80,20.50,35.37,43.24,96.58,0.00,9.28
+Khammam,Kusumanchi,,1.07,21.88,35.77,34.36,93.25,0.00,5.50
+Khammam,Madhira,,1.21,20.44,36.43,37.03,97.85,0.00,3.89
+Khammam,Mudigonda,,0.82,20.19,36.60,38.34,98.84,0.00,7.52
+Khammam,Nelakondapalle,,0.55,20.47,36.35,48.88,96.00,0.00,2.17
+Khammam,Penuballi,,2.26,20.82,35.23,33.16,91.53,0.00,17.05
+Khammam,Raghunadhapalem,,1.51,20.96,34.88,32.88,95.23,0.00,8.35
+Khammam,Sathupalle,,2.47,19.77,36.63,37.45,99.15,0.07,9.82
+Khammam,Singareni,,1.79,21.04,34.81,33.04,90.26,0.00,5.54
+Khammam,Thallada,,1.88,20.55,34.41,39.17,98.36,0.00,10.10
+Khammam,Thirumalayapalem,,1.38,20.80,35.11,43.26,99.55,0.00,5.66
+Khammam,Vemsoor,,3.97,21.13,34.95,39.50,93.52,0.00,0.05
+Khammam,Wyra,,2.27,20.68,34.54,42.58,95.71,0.00,9.53
+Khammam,Yerrupalem,,1.63,21.42,35.74,45.26,93.15,0.00,6.18
+Kumuram Bheem,Asifabad,,0.35,20.48,35.06,28.05,76.48,0.00,9.42
+Kumuram Bheem,Bejjur,,0.70,20.96,35.73,26.67,84.02,0.07,9.72
+Kumuram Bheem,Chintalamanepally,,0.16,20.85,34.31,37.87,78.58,0.02,9.48
+Kumuram Bheem,Dahegaon,,1.25,20.82,35.02,36.16,81.98,0.02,11.22
+Kumuram Bheem,Jainoor,,0.40,20.74,33.35,29.56,73.22,0.61,10.65
+Kumuram Bheem,Kagaznagar,,1.74,19.72,35.53,32.25,87.85,0.00,6.69
+Kumuram Bheem,Kerameri,,0.78,18.95,36.08,31.23,76.15,0.00,8.43
+Kumuram Bheem,Kouthala,,0.82,20.67,34.99,36.82,86.97,0.98,9.24
+Kumuram Bheem,Lingapur,,0.60,20.89,33.45,36.37,72.37,0.04,12.22
+Kumuram Bheem,Penchikalpet,,0.55,20.99,36.04,29.58,83.24,0.07,9.72
+Kumuram Bheem,Rebbana,,0.70,20.01,34.88,34.95,83.20,0.00,9.92
+Kumuram Bheem,Sirpur_T,,1.23,20.31,34.50,34.00,88.12,0.00,9.44
+Kumuram Bheem,Sirpur_U,,0.72,17.32,33.09,30.28,83.69,0.00,10.36
+Kumuram Bheem,Tiryani,,0.36,19.17,35.84,29.64,79.96,0.00,12.05
+Kumuram Bheem,Wankdi,,0.65,19.20,34.95,36.67,83.36,0.00,7.12
+Mahabubabad,Bayyaram,,1.73,21.02,36.37,35.64,82.83,0.00,6.07
+Mahabubabad,Chinnagudur,,2.09,20.41,33.65,36.60,89.27,0.00,3.68
+Mahabubabad,Danthalapalle,,1.72,20.20,34.97,40.23,94.97,0.05,4.78
+Mahabubabad,Dornakal,,3.20,20.36,34.78,42.59,98.88,0.00,7.80
+Mahabubabad,Ganagavaram,,3.91,21.25,35.54,30.63,88.64,0.06,10.29
+Mahabubabad,Garla,,5.54,20.40,36.11,40.56,92.91,0.00,4.65
+Mahabubabad,Gudur,,3.57,20.73,34.48,37.05,89.85,0.00,11.43
+Mahabubabad,Kesamudram,,2.21,20.83,34.13,35.51,95.68,0.00,6.92
+Mahabubabad,Kothaguda,,2.79,20.30,33.75,38.49,89.23,0.17,8.69
+Mahabubabad,Kuravi,,1.62,20.80,36.02,30.84,97.43,0.00,9.54
+Mahabubabad,Mahabubabad,,2.69,20.76,35.01,33.50,96.28,0.00,8.05
+Mahabubabad,Maripeda,,2.64,21.56,35.36,45.50,93.96,0.05,5.84
+Mahabubabad,Narsimhulapet,,2.16,20.06,36.60,37.05,99.26,0.00,8.30
+Mahabubabad,Nellikudur,,2.89,20.61,34.74,39.91,92.63,0.00,6.34
+Mahabubabad,Peddavangara,,2.25,20.71,33.86,39.55,96.40,0.21,8.08
+Mahabubabad,Thorrur,,2.75,20.42,33.97,39.96,94.00,0.11,6.47
+Mahabubnagar,Addakal,,0.50,19.55,34.83,31.51,85.91,0.00,6.26
+Mahabubnagar,Balanagar,,1.90,17.00,34.28,20.98,95.11,0.00,9.41
+Mahabubnagar,Bhoothpur,,0.48,18.57,34.44,32.50,87.80,0.00,9.78
+Mahabubnagar,Chinna_Chintha_Kunta,,0.66,17.90,36.31,24.24,92.29,0.00,10.66
+Mahabubnagar,Devarkadara,,0.46,18.07,34.67,29.54,79.85,0.00,0.75
+Mahabubnagar,Gandeed,,2.46,18.86,35.58,25.62,95.12,0.00,3.53
+Mahabubnagar,Hanwada,,2.60,18.23,33.38,34.51,90.32,0.01,5.57
+Mahabubnagar,Jadcherla,,0.46,17.54,35.00,27.60,84.81,0.00,7.84
+Mahabubnagar,Koilkonda,,0.72,17.98,35.42,19.15,91.58,0.00,4.76
+Mahabubnagar,Mahabubnagar_Rural,,0.45,18.71,33.32,32.36,78.30,0.00,1.90
+Mahabubnagar,Mahabubnagar_Urban,,0.40,19.30,34.21,25.37,82.67,0.00,7.73
+Mahabubnagar,Midjil,,0.58,17.73,34.07,23.49,91.60,0.00,14.52
+Mahabubnagar,Mohammamdabad,,2.78,18.47,33.47,27.04,89.47,0.00,5.61
+Mahabubnagar,Musapet,,1.05,20.14,35.04,22.97,85.59,0.00,8.38
+Mahabubnagar,Nawabpet,,1.43,17.67,33.76,24.21,87.61,0.00,13.96
+Mahabubnagar,Rajapur,,2.06,16.85,33.00,33.80,96.51,0.00,4.56
+Mancherial,Bellampalle,,0.22,21.28,35.22,32.85,80.79,0.12,8.25
+Mancherial,Bheemini,,0.41,21.22,35.65,37.73,81.78,0.02,11.22
+Mancherial,Bhimaram,,0.94,20.98,35.11,40.65,86.90,0.00,6.13
+Mancherial,Chennur,,1.03,21.18,36.66,32.95,87.25,0.05,7.72
+Mancherial,Dandepalle,,0.57,20.25,34.69,41.74,98.37,0.15,12.30
+Mancherial,Hajipur,,0.40,20.24,35.17,35.51,93.08,0.01,6.40
+Mancherial,Jaipur,,0.89,20.81,35.96,34.69,91.90,0.00,7.57
+Mancherial,Jannaram,,0.81,18.34,35.89,32.00,91.33,0.09,8.82
+Mancherial,Kannepalli,,0.44,20.61,35.01,37.35,86.10,0.05,10.91
+Mancherial,Kasipet,,0.30,20.40,36.30,33.63,83.83,0.02,5.44
+Mancherial,Kotapalle,,1.24,20.55,34.91,32.58,94.10,0.00,6.46
+Mancherial,Luxettipet,,0.18,21.02,34.82,32.25,88.80,0.05,9.02
+Mancherial,Mancherial,,0.87,22.02,35.61,35.31,81.34,0.00,7.76
+Mancherial,Mandamarri,,0.97,21.26,35.42,35.55,83.70,0.05,7.14
+Mancherial,Naspur,,1.08,22.13,35.08,38.36,96.89,0.07,7.73
+Mancherial,Nennal,,1.36,20.64,34.95,35.19,90.00,0.09,10.55
+Mancherial,Tandur,,0.45,20.90,34.16,39.32,76.52,0.05,7.18
+Mancherial,Vemanpalle,,0.85,20.18,33.73,30.99,91.32,0.03,5.48
+Medak,Alladurg,,0.91,20.09,33.76,23.04,78.15,0.00,8.75
+Medak,Chegunta,,3.20,19.31,34.27,32.43,83.24,0.02,8.46
+Medak,Chilipched,,2.13,18.67,32.68,37.50,94.18,0.00,5.35
+Medak,Havelighanpur,,1.23,18.62,33.93,31.89,96.88,0.00,10.52
+Medak,Kowdipalle,,1.77,18.23,33.42,31.77,89.39,0.00,0.03
+Medak,Kulcharam,,1.89,18.29,34.63,28.20,89.98,0.00,5.01
+Medak,Manoharabad,,0.28,19.23,33.66,25.60,87.24,0.00,9.66
+Medak,Masaipet,,2.97,19.97,33.01,28.99,77.36,0.02,16.37
+Medak,Medak,,1.91,19.36,35.20,31.16,95.26,0.00,10.88
+Medak,Narsapur,,0.67,18.40,33.97,31.41,88.05,0.00,10.31
+Medak,Narsingi,,0.99,18.42,33.04,31.46,92.94,0.09,7.70
+Medak,Nizampet,,0.40,18.97,32.59,34.52,96.87,0.00,7.95
+Medak,Papannapet,,1.07,18.65,34.49,27.37,95.96,0.00,10.08
+Medak,Ramayampet,,1.50,18.26,32.51,32.08,95.58,0.05,9.44
+Medak,Regode,,0.63,20.04,33.12,28.81,71.93,0.00,9.06
+Medak,Shankarampet_A,,0.47,19.67,35.07,27.78,85.15,0.00,0.46
+Medak,Shankarampet_R,,1.62,20.50,33.09,31.50,79.61,0.01,9.06
+Medak,Shivampet,,0.70,18.90,33.19,33.68,93.89,0.00,2.17
+Medak,Tekmal,,0.84,18.43,33.65,25.11,95.21,0.00,7.02
+Medak,Tupran,,1.21,19.56,32.87,34.30,82.09,0.12,12.53
+Medak,Yeldurthy,,1.22,19.36,33.85,38.70,95.98,0.00,10.51
+Medchal-Malkajgiri,Alwal,,1.87,19.54,33.02,30.57,82.50,0.00,4.18
+Medchal-Malkajgiri,Bachpalle,,2.07,21.98,32.90,29.54,62.70,0.00,12.81
+Medchal-Malkajgiri,Balanagar,,1.26,20.10,33.15,28.05,79.21,0.00,6.66
+Medchal-Malkajgiri,Dundigal_Gandimaisamma,,0.94,19.21,34.61,22.11,81.32,0.00,7.56
+Medchal-Malkajgiri,Ghatkesar,,2.39,19.10,34.12,30.37,82.69,0.00,10.58
+Medchal-Malkajgiri,Kapra,,2.16,20.35,33.28,26.78,82.53,0.00,13.74
+Medchal-Malkajgiri,Keesara,,3.40,19.98,34.51,26.14,83.48,0.00,24.06
+Medchal-Malkajgiri,Kukatpally,,1.42,21.37,34.01,28.28,73.44,0.00,6.36
+Medchal-Malkajgiri,Malkajgiri,,1.86,21.17,33.77,27.00,77.25,0.00,30.88
+Medchal-Malkajgiri,Medchel,,0.74,18.60,33.44,30.32,85.10,0.02,10.00
+Medchal-Malkajgiri,Medipally,,0.73,20.45,34.86,24.46,83.77,0.00,3.25
+Medchal-Malkajgiri,Muduchinthalapally,,1.17,18.37,32.72,33.07,86.62,0.00,4.71
+Medchal-Malkajgiri,Quthbullapur,,1.87,20.05,33.54,21.84,78.59,0.00,8.74
+Medchal-Malkajgiri,Shamirpet,,1.22,19.13,35.67,30.90,86.07,0.00,11.33
+Medchal-Malkajgiri,Uppal,,1.08,19.56,34.05,27.25,79.95,0.00,24.98
+Mulugu,Eturunagaram,,2.66,21.42,34.15,39.57,89.83,0.00,6.97
+Mulugu,Govindaraopet,,3.52,20.32,35.07,44.57,95.21,0.00,7.06
+Mulugu,Kannaigudem,,1.14,21.49,34.90,38.31,94.81,0.04,5.35
+Mulugu,Mangapet,,3.11,21.49,35.31,40.20,91.80,0.00,8.55
+Mulugu,Mulug,,1.27,20.74,35.09,38.29,92.48,0.00,9.53
+Mulugu,Tadvai,,2.59,19.45,36.84,25.25,94.83,0.00,8.27
+Mulugu,Venkatapur,,2.16,21.23,35.12,42.44,92.07,0.00,11.41
+Mulugu,Venkatapuram,,4.69,21.87,35.78,35.00,87.03,0.00,9.14
+Mulugu,Wazeed,,0.74,21.02,34.84,31.37,96.49,0.14,10.07
+Nagarkurnool,Achampet,,0.44,17.41,33.60,24.84,89.16,0.00,15.56
+Nagarkurnool,Amrabad,,1.19,17.37,32.82,23.15,87.51,0.11,16.93
+Nagarkurnool,Balmoor,,0.28,18.47,33.61,30.19,84.72,0.00,15.79
+Nagarkurnool,Bijinapalle,,0.38,18.88,35.78,24.85,88.19,0.00,9.58
+Nagarkurnool,Charakonda,,0.26,20.58,35.19,23.50,81.22,0.00,4.78
+Nagarkurnool,Kalwakurthy,,0.34,17.07,36.05,20.37,92.12,0.00,13.38
+Nagarkurnool,Kodair,,0.97,19.05,35.03,24.76,90.85,0.00,6.18
+Nagarkurnool,Kollapur,,0.27,19.76,36.42,19.78,83.79,0.10,8.08
+Nagarkurnool,Lingal,,0.15,20.23,33.86,33.39,76.69,0.00,15.73
+Nagarkurnool,Nagar_Kurnool,,0.58,17.89,34.99,19.79,92.43,0.00,11.13
+Nagarkurnool,Padra,,0.51,19.33,33.31,27.92,82.91,0.00,15.23
+Nagarkurnool,Peddakothapalle,,0.72,18.38,35.28,27.27,91.68,0.00,4.08
+Nagarkurnool,Pentlavelli,,0.63,19.25,34.87,18.83,79.35,0.00,9.85
+Nagarkurnool,Tadoor,,0.83,18.02,33.63,31.71,80.41,0.03,11.04
+Nagarkurnool,Telkapalle,,0.45,17.73,34.73,29.75,90.43,0.03,14.02
+Nagarkurnool,Thimmajipeta,,0.45,19.58,33.28,26.74,79.28,0.00,11.19
+Nagarkurnool,Uppunuthala,,0.06,19.54,35.03,29.11,91.30,0.00,14.25
+Nagarkurnool,Urkonda,,0.17,18.41,33.29,35.31,87.23,0.00,6.78
+Nagarkurnool,Vangoor,,0.22,19.45,34.87,29.19,87.28,0.00,5.80
+Nagarkurnool,Veldanda,,0.18,18.41,35.10,21.59,86.49,0.00,8.36
+Nalgonda,Adavi Devula Palli,,1.37,21.83,34.51,39.35,88.61,0.00,6.30
+Nalgonda,Anumula_Haliya,,0.36,20.10,34.94,41.02,96.45,0.00,7.61
+Nalgonda,Chandampet,,0.62,18.33,35.94,28.75,91.68,0.00,14.52
+Nalgonda,Chandur,,0.76,18.43,34.40,37.74,91.67,0.12,15.14
+Nalgonda,Chinthapalle,,0.48,17.26,33.60,32.17,90.29,0.00,12.02
+Nalgonda,Chityala,,0.66,20.05,33.14,38.99,87.46,0.54,5.65
+Nalgonda,Damaracherla,,0.99,20.69,34.49,38.05,89.82,0.00,6.15
+Nalgonda,Devarakonda,,0.32,19.63,35.20,25.30,87.30,0.00,10.98
+Nalgonda,Gundlapalle,,0.19,19.07,34.87,28.15,95.02,0.00,8.63
+Nalgonda,Gurrampode,,0.62,18.48,34.30,39.36,98.05,0.03,12.13
+Nalgonda,Kangal,,2.01,20.22,33.46,42.28,88.67,0.00,0.32
+Nalgonda,Kattangoor,,0.38,20.54,35.68,37.68,97.74,0.00,11.03
+Nalgonda,Kethepalle,,0.17,20.93,33.07,45.21,85.04,0.11,9.14
+Nalgonda,Kondamallapally,,0.43,20.67,34.18,31.77,87.09,0.02,9.80
+Nalgonda,Madugulapally,,0.18,20.04,33.65,50.29,82.56,0.00,5.66
+Nalgonda,Marriguda,,1.71,19.62,34.71,33.56,91.35,0.01,10.73
+Nalgonda,Miryalaguda,,0.30,20.79,34.59,44.62,94.77,0.00,6.90
+Nalgonda,Munugode,,0.72,18.45,33.85,40.14,90.87,0.18,14.99
+Nalgonda,Nakrekal,,0.37,20.56,35.06,35.77,87.64,0.06,6.14
+Nalgonda,Nalgonda,,0.53,20.26,35.32,34.52,94.47,0.00,6.59
+Nalgonda,Nampalle,,0.69,18.99,35.33,25.27,95.15,0.02,12.23
+Nalgonda,Narketpalle,,0.33,20.73,34.13,35.12,95.48,0.00,9.71
+Nalgonda,Neredugommu,,0.94,19.76,35.90,30.03,85.66,0.00,9.41
+Nalgonda,Nidamanur,,0.27,20.57,34.86,36.44,99.34,0.00,7.31
+Nalgonda,Pedda_Adiserlapalle,,0.42,20.31,36.50,26.91,94.57,0.00,7.03
+Nalgonda,Peddavura,,0.70,20.23,34.67,36.73,97.93,0.00,12.49
+Nalgonda,Saligouraram,,0.68,21.10,32.60,50.66,98.83,0.00,8.21
+Nalgonda,Thipparthi,,0.53,19.99,36.14,36.38,97.57,0.00,8.11
+Nalgonda,Thripuraram,,0.49,20.36,34.05,43.12,97.07,0.00,7.49
+Nalgonda,Tirumalagiri_Sagar,,1.07,22.35,33.90,35.33,86.83,0.00,2.52
+Nalgonda,Vemulapalle,,0.49,20.72,33.57,49.23,84.02,0.00,4.38
+Narayanpet,Damaragidda,,0.25,17.22,34.76,27.76,87.19,0.00,9.57
+Narayanpet,Dhanwada,,0.33,20.37,35.13,31.51,76.12,0.02,10.23
+Narayanpet,Kosgi,,0.88,17.84,34.38,19.55,83.13,0.00,9.64
+Narayanpet,Krishna,,0.21,21.29,34.88,27.66,74.31,0.00,10.01
+Narayanpet,Maddur,,1.15,18.64,35.07,30.16,87.51,0.00,10.70
+Narayanpet,Maganoor,,0.53,19.45,35.52,28.81,80.96,0.00,9.10
+Narayanpet,Makthal,,0.75,20.80,34.06,20.94,69.85,0.00,9.99
+Narayanpet,Marikal,,0.47,20.84,33.49,29.90,72.04,0.01,9.64
+Narayanpet,Narayanpet,,0.70,19.10,35.41,18.29,82.46,0.02,10.23
+Narayanpet,Narva,,1.33,19.09,35.72,28.29,77.92,0.03,9.85
+Narayanpet,Utkoor,,0.53,20.73,36.33,25.19,79.24,0.01,9.64
+Nirmal,Basar,,0.54,20.46,34.75,34.62,82.34,0.01,6.97
+Nirmal,Bhainsa,,0.47,18.24,35.51,35.01,86.41,0.00,8.60
+Nirmal,Dastuarabad,,0.28,20.19,37.33,30.15,87.34,0.00,5.64
+Nirmal,Dilawarpur,,0.31,19.98,35.33,35.04,82.07,0.00,6.88
+Nirmal,Kaddampeddur,,0.52,20.15,35.95,29.92,88.09,0.00,7.67
+Nirmal,Khanpur,,0.42,20.27,35.91,33.83,89.73,0.00,6.72
+Nirmal,Kubeer,,0.19,19.25,35.31,36.20,80.81,0.00,7.15
+Nirmal,Kuntala,,0.55,17.76,34.39,32.19,86.76,0.00,4.72
+Nirmal,Laxmanchanda,,0.37,18.78,35.72,32.18,93.83,0.00,9.54
+Nirmal,Lokeswaram,,0.58,19.07,33.78,37.92,84.88,0.18,1.47
+Nirmal,Mamda,,0.16,18.66,35.53,24.68,87.60,0.00,12.71
+Nirmal,Mudhole,,0.45,19.16,33.71,27.09,87.41,0.00,6.83
+Nirmal,Narsapur_G,,0.20,20.45,36.65,30.90,76.89,0.00,7.97
+Nirmal,Nirmal,,0.39,20.38,33.56,31.44,85.51,0.29,19.07
+Nirmal,Nirmal_Rural,,0.24,20.11,35.78,25.84,83.31,0.00,8.58
+Nirmal,Pembi,,1.07,20.77,34.87,38.22,83.86,0.00,10.13
+Nirmal,Sarangapur,,0.51,17.80,34.63,30.15,98.07,0.00,10.36
+Nirmal,Soan,,0.66,20.11,35.55,34.17,94.63,0.00,5.73
+Nirmal,Tanur,,0.12,19.89,35.87,30.34,75.81,0.01,4.85
+Nizamabad,Armur,,0.37,19.19,36.20,32.96,99.49,0.00,3.88
+Nizamabad,Balkonda,,0.04,20.07,33.86,35.67,77.74,0.00,5.81
+Nizamabad,Bheemgal,,0.13,20.06,35.51,23.47,87.16,0.01,8.63
+Nizamabad,Bodhan,,0.57,18.15,36.24,33.65,93.39,0.00,10.79
+Nizamabad,Chandur,,0.19,19.50,33.66,43.08,88.44,0.00,8.83
+Nizamabad,Dharpalle,,0.26,18.96,33.64,44.36,84.40,0.00,10.83
+Nizamabad,Dichpalle,,0.12,19.39,35.84,35.47,90.71,0.00,7.74
+Nizamabad,Indalwai,,0.35,18.99,32.71,37.82,98.48,0.00,6.20
+Nizamabad,Jakranpalle,,0.14,19.93,36.01,33.50,85.50,0.00,7.26
+Nizamabad,Kammarpalle,,0.26,20.70,35.61,29.50,87.31,0.00,8.95
+Nizamabad,Kotgiri,,0.41,20.58,34.04,36.59,88.12,0.10,6.03
+Nizamabad,Makloor,,0.17,21.46,36.51,36.50,93.76,0.00,4.60
+Nizamabad,Mendora,,0.19,19.37,36.53,29.10,98.21,0.00,4.64
+Nizamabad,Mortad,,0.19,20.21,35.51,36.25,89.32,0.00,5.67
+Nizamabad,Mosra,,0.57,22.08,34.73,40.81,79.01,0.01,5.33
+Nizamabad,Mugpal,,0.09,19.34,34.89,34.17,89.12,0.00,3.47
+Nizamabad,Mupkal,,0.82,19.73,35.84,30.52,88.93,0.00,7.34
+Nizamabad,Nandipet,,1.26,20.34,35.71,40.74,98.75,0.18,3.37
+Nizamabad,Navipet,,0.15,20.66,35.55,38.74,89.89,0.00,2.84
+Nizamabad,Nizamabad_North,,0.45,21.22,36.80,30.84,91.80,0.00,11.79
+Nizamabad,Nizamabad_Rural,,0.29,20.73,36.25,34.54,95.44,0.00,8.65
+Nizamabad,Nizamabad_South,,0.55,20.50,35.88,27.71,81.52,0.04,5.00
+Nizamabad,Ranjal,,0.52,19.29,35.26,43.09,89.16,0.00,3.34
+Nizamabad,Rudrur,,0.63,20.59,33.62,40.36,88.23,0.00,11.69
+Nizamabad,Sirkonda,,0.63,18.58,35.34,42.54,90.30,0.00,10.83
+Nizamabad,Vailpur,,0.14,19.40,34.97,32.71,91.22,0.00,4.72
+Nizamabad,Varni,,0.65,21.05,35.15,36.52,87.22,0.00,8.63
+Nizamabad,Yeda_Palle,,0.10,19.60,36.18,31.59,97.37,0.00,5.29
+Nizamabad,Yergatla,,0.14,19.75,36.62,30.83,89.00,0.00,6.65
+Peddapalli,Antargoan,,0.92,22.68,35.76,43.39,92.49,0.00,9.40
+Peddapalli,Dharmaram,,2.30,22.25,35.56,48.87,88.43,0.55,7.31
+Peddapalli,Elgaid,,2.42,20.57,33.51,58.60,98.64,0.36,6.88
+Peddapalli,Julapalle,,1.09,21.02,33.62,54.89,99.26,0.18,5.55
+Peddapalli,Kamanpur,,0.96,22.60,35.53,43.74,93.03,0.06,6.10
+Peddapalli,Manthani,,0.55,20.70,36.40,40.73,92.41,0.00,9.08
+Peddapalli,Mutharam_Manthani,,1.34,22.81,36.30,50.64,96.32,0.00,8.36
+Peddapalli,Odela,,1.87,22.90,35.63,55.86,96.77,0.00,2.40
+Peddapalli,Palakurthy,,1.49,21.94,36.55,42.14,93.96,0.00,5.51
+Peddapalli,Peddapalle,,1.94,22.50,35.85,46.74,99.71,0.00,7.84
+Peddapalli,Ramagiri,,1.03,22.90,35.26,54.49,99.75,0.00,7.06
+Peddapalli,Ramagundam,,1.15,22.23,36.11,37.10,93.30,0.07,9.36
+Peddapalli,Srirampur,,3.10,22.83,36.20,54.52,98.33,0.00,9.67
+Peddapalli,Sultanabad,,2.72,20.73,35.19,49.74,95.79,0.00,7.22
+Rajanna Sircilla,Boinpalle,,1.88,21.01,34.65,35.55,82.45,0.02,9.03
+Rajanna Sircilla,Chandurthi,,1.03,21.72,35.05,44.36,99.90,0.00,4.81
+Rajanna Sircilla,Ellanthakunta,,1.59,20.56,36.13,35.51,98.45,0.00,10.55
+Rajanna Sircilla,Gambhiraopeta,,1.74,18.80,34.57,38.25,95.81,0.00,9.15
+Rajanna Sircilla,Konaraopeta,,1.34,21.49,36.50,38.26,97.40,0.00,11.18
+Rajanna Sircilla,Mustabad,,0.97,20.29,36.25,34.79,97.71,0.00,7.25
+Rajanna Sircilla,Rudrangi,,1.20,21.78,35.67,37.70,94.26,0.00,8.83
+Rajanna Sircilla,Sirsilla,,1.25,21.61,36.66,40.11,98.12,0.00,14.22
+Rajanna Sircilla,Thangallapalle,,2.17,21.72,35.92,45.81,93.27,0.05,11.61
+Rajanna Sircilla,Veernapalle,,1.02,19.25,35.45,43.99,82.16,0.00,4.13
+Rajanna Sircilla,Vemulawada,,1.13,21.64,35.60,37.22,91.56,0.03,9.96
+Rajanna Sircilla,Vemulawada_Rural,,0.65,21.20,35.21,45.11,96.75,0.02,6.57
+Rajanna Sircilla,Yellareddypeta,,2.18,20.57,35.94,36.03,90.67,0.00,4.49
+Rangareddy,Abdullapurmet,,0.61,18.67,34.30,25.13,89.28,0.00,15.82
+Rangareddy,Amangal,,2.00,20.68,33.58,25.56,82.05,0.00,7.88
+Rangareddy,Balapur,,0.84,18.31,33.53,25.36,87.02,0.00,5.02
+Rangareddy,Chevella,,2.11,18.08,33.75,26.31,79.41,0.00,13.86
+Rangareddy,Chowdergudem,,0.21,16.02,32.15,29.91,90.10,0.00,9.06
+Rangareddy,Farooqnagar,,1.15,18.06,33.34,25.64,88.42,0.00,17.13
+Rangareddy,Gandipet,,1.29,22.84,33.74,22.77,67.45,0.04,3.21
+Rangareddy,Hayathnagar,,0.75,19.75,33.25,28.27,84.28,0.00,58.19
+Rangareddy,Ibrahimpatnam,,0.74,16.58,35.20,24.67,91.72,0.00,9.03
+Rangareddy,Kadthal,,1.16,18.20,33.69,28.19,86.49,0.00,12.47
+Rangareddy,Kandukur,,0.88,16.98,34.21,21.18,90.69,0.00,13.92
+Rangareddy,Keshampeta,,1.35,16.85,34.00,22.05,89.50,0.00,16.20
+Rangareddy,Kondurg,,1.14,18.17,33.06,29.48,86.41,0.13,9.79
+Rangareddy,Kothur,,0.65,18.19,33.65,33.34,88.59,0.00,11.51
+Rangareddy,Madgul,,1.02,19.35,33.98,28.09,84.24,0.00,11.98
+Rangareddy,Maheshwaram,,0.64,18.81,34.22,23.25,86.14,0.00,10.84
+Rangareddy,Manchal,,0.40,19.10,34.08,25.91,82.00,0.00,10.57
+Rangareddy,Moinabad,,2.36,18.23,35.68,25.21,80.09,0.00,11.83
+Rangareddy,Nandigam,,0.99,18.96,32.85,28.03,81.71,0.00,12.42
+Rangareddy,Rajendranagar,,2.05,18.68,33.96,25.40,84.73,0.00,23.47
+Rangareddy,Saroornagar,,1.00,20.64,33.94,27.41,78.25,0.00,34.44
+Rangareddy,Serilingampally,,1.58,19.08,34.38,26.38,77.06,0.00,19.90
+Rangareddy,Shabad,,1.48,16.19,34.65,20.35,86.83,0.03,11.54
+Rangareddy,Shamshabad,,1.71,19.08,34.35,27.50,76.52,0.04,10.49
+Rangareddy,Shankarpalle,,1.86,18.90,33.39,23.14,77.06,0.00,6.97
+Rangareddy,Talakondapalle,,1.33,16.66,34.47,27.43,91.41,0.00,8.62
+Rangareddy,Yacharam,,1.21,16.78,32.87,22.37,90.36,0.00,12.53
+Sangareddy,Ameenapur,,2.82,19.81,33.87,23.21,77.96,0.00,6.68
+Sangareddy,Andhole,,1.29,16.93,34.66,31.47,92.45,0.00,8.09
+Sangareddy,Chowtakur,,0.73,19.63,32.85,29.85,75.61,0.01,4.61
+Sangareddy,Gummadidala,,0.76,18.12,33.78,26.69,84.80,0.21,12.41
+Sangareddy,Hathanoora,,0.95,18.13,34.53,22.30,88.58,0.00,7.90
+Sangareddy,Jharasangam,,2.22,19.13,33.00,33.56,69.33,0.00,7.83
+Sangareddy,Jinnaram,,0.83,18.55,33.94,27.22,85.68,0.00,5.78
+Sangareddy,Kalher,,0.68,21.41,35.59,32.05,82.17,0.00,8.18
+Sangareddy,Kandi,,1.52,18.34,34.46,34.24,85.73,0.59,3.79
+Sangareddy,Kangti,,1.01,19.50,33.21,31.54,66.68,0.00,9.43
+Sangareddy,Kohir,,1.96,16.72,33.95,21.74,75.29,0.00,11.70
+Sangareddy,Kondapur,,3.81,18.13,33.68,29.15,77.73,0.21,8.35
+Sangareddy,Manoor,,1.75,19.12,33.40,29.45,71.21,0.00,7.10
+Sangareddy,Mogdampalle,,1.47,18.11,33.31,26.94,72.61,0.00,11.44
+Sangareddy,Munipalli,,1.75,19.38,33.02,23.61,73.29,0.00,8.41
+Sangareddy,Nagalgidda,,2.25,19.39,33.73,28.78,70.59,0.00,9.24
+Sangareddy,Narayankhed,,0.88,20.42,33.45,29.47,68.60,0.00,10.25
+Sangareddy,Naykal,,2.96,18.43,32.93,25.37,71.04,0.00,7.83
+Sangareddy,Patancheruvu,,1.95,18.89,33.68,28.29,83.86,0.00,7.65
+Sangareddy,Pulkal,,2.34,17.89,33.79,29.87,88.11,0.00,7.20
+Sangareddy,Raikode,,3.57,19.37,33.27,30.89,68.72,0.00,9.91
+Sangareddy,Ramachandrapuram,,1.76,17.82,33.75,29.48,84.17,0.04,8.03
+Sangareddy,Sadasivpet,,3.16,18.73,34.13,31.07,74.16,0.01,7.76
+Sangareddy,Sangareddy,,3.10,21.03,33.86,33.76,74.18,1.01,7.60
+Sangareddy,Sirgapoor,,0.87,17.82,34.37,30.37,83.94,0.00,10.74
+Sangareddy,Watpalle,,1.35,19.70,33.95,24.53,74.37,0.00,11.31
+Sangareddy,Zahirabad,,2.06,16.86,34.58,17.38,79.95,0.00,13.21
+Siddipet,Anthakkapeta,,1.87,20.46,34.32,32.26,84.63,0.01,10.80
+Siddipet,Bejjanki,,1.46,20.55,35.03,36.67,88.19,0.00,7.69
+Siddipet,Cheriyal,,1.10,19.36,34.69,25.57,89.89,0.00,7.73
+Siddipet,Chinnakodur,,2.04,20.65,34.79,39.26,80.85,0.00,3.52
+Siddipet,Dhoolmitta,,1.71,18.85,34.96,32.05,90.16,0.05,7.58
+Siddipet,Doultabad,,1.21,19.98,32.80,30.51,76.54,0.00,9.34
+Siddipet,Dubbak,,1.63,18.37,35.45,32.13,93.13,0.00,8.71
+Siddipet,Gajwel,,1.16,18.69,33.42,30.00,90.94,0.18,11.23
+Siddipet,Husnabad,,2.48,20.28,34.59,43.27,92.07,0.00,5.54
+Siddipet,Jagadevpur,,1.84,19.56,32.88,33.91,86.89,0.00,10.03
+Siddipet,Koheda,,2.54,19.91,34.22,39.59,88.93,0.00,9.56
+Siddipet,Komaravelly,,1.57,21.11,33.12,35.53,77.83,0.00,7.11
+Siddipet,Kondapak,,2.61,19.07,33.83,30.16,92.29,0.00,6.55
+Siddipet,Maddur,,1.21,19.37,34.48,33.54,90.21,0.02,6.01
+Siddipet,Markook,,0.73,19.75,32.05,42.49,86.43,0.18,9.04
+Siddipet,Mirdoddi,,1.58,19.04,33.20,34.33,90.84,0.00,5.84
+Siddipet,Mulug,,0.78,19.94,34.89,34.72,87.23,0.00,7.26
+Siddipet,Nanganur,,1.24,19.41,32.90,31.02,92.13,0.12,6.63
+Siddipet,Narayanraopet,,1.70,19.46,34.52,30.68,86.11,0.06,6.84
+Siddipet,Rayapole,,1.12,18.87,32.84,31.22,88.32,0.00,8.27
+Siddipet,Siddipet_Rural,,1.00,20.50,32.66,36.67,85.51,0.00,3.49
+Siddipet,Siddipet_Urban,,2.65,20.37,35.69,27.34,79.24,0.00,3.63
+Siddipet,Thoguta,,2.16,18.62,35.56,28.67,92.73,0.00,7.04
+Siddipet,Wargal,,0.27,20.19,33.25,22.42,83.66,0.00,4.71
+Suryapet,Ananthagiri,,0.43,21.10,34.60,52.95,99.14,0.00,2.99
+Suryapet,Atmakur_S,,0.82,21.03,34.98,36.33,95.06,0.00,0.31
+Suryapet,Chilkur,,0.38,22.00,34.67,55.99,94.89,0.02,2.69
+Suryapet,Chinthala Palem,,0.25,21.09,33.84,53.75,99.14,0.02,2.74
+Suryapet,Chivvemla,,0.21,20.83,33.69,38.89,95.60,0.00,3.31
+Suryapet,Garidepalle,,0.21,20.79,34.03,50.03,94.05,0.03,5.78
+Suryapet,Huzur Nagar,,0.79,22.04,34.81,52.50,94.11,0.00,0.19
+Suryapet,Jajireddigudem,,0.50,21.78,33.43,45.36,96.24,0.00,0.00
+Suryapet,Kodad,,0.55,21.38,34.21,55.57,97.83,0.02,2.77
+Suryapet,Maddirala,,1.43,20.24,35.13,38.90,95.55,0.00,6.75
+Suryapet,Mattampalle,,1.27,21.88,34.91,40.16,92.86,0.00,11.82
+Suryapet,Mellachervu,,0.60,22.35,33.93,46.55,88.96,0.55,9.86
+Suryapet,Mothey,,0.96,21.05,34.86,44.59,97.28,0.00,9.28
+Suryapet,Munagala,,0.02,21.66,35.15,40.97,90.62,0.05,5.86
+Suryapet,Nadigudem,,0.14,21.05,34.54,35.65,97.96,0.00,5.21
+Suryapet,Nagaram,,0.88,20.55,33.90,36.99,98.92,0.09,11.43
+Suryapet,Neredcherla,,0.23,21.17,34.30,45.15,99.61,0.00,0.00
+Suryapet,Noothankal,,1.37,20.95,33.43,43.63,92.14,0.00,0.31
+Suryapet,Palakeedu,,2.54,21.91,33.85,46.16,92.74,0.29,9.58
+Suryapet,Penpahad,,0.30,20.86,35.24,39.29,96.09,0.00,7.03
+Suryapet,Suryapet,,0.13,21.01,33.91,39.08,100.00,0.00,7.30
+Suryapet,Thirumalagiri,,2.26,21.12,33.54,54.35,93.02,0.19,9.18
+Suryapet,Thungathurthi,,0.93,21.15,32.42,48.19,89.79,0.19,7.82
+Vikarabad,Bantwaram,,1.68,19.12,35.87,21.96,72.94,0.00,6.52
+Vikarabad,Basheerabad,,1.86,18.43,34.84,17.30,75.14,0.00,13.41
+Vikarabad,Bomraspeta,,1.10,17.41,33.78,19.41,81.21,0.00,7.05
+Vikarabad,Chowdapur,,0.64,18.10,32.43,32.88,82.60,0.00,7.09
+Vikarabad,Dharur,,0.60,19.29,33.79,28.65,73.13,0.00,6.52
+Vikarabad,Doma,,0.78,18.31,33.50,31.85,82.67,0.00,5.06
+Vikarabad,Doulatabad,,1.81,17.57,32.57,29.24,77.79,0.00,9.48
+Vikarabad,Kodangal,,1.02,18.76,34.27,21.39,74.22,0.00,0.16
+Vikarabad,Kotepally,,1.52,19.53,34.08,27.99,72.06,0.00,6.52
+Vikarabad,Kulkacharla,,1.11,18.29,35.36,20.27,79.99,0.00,8.50
+Vikarabad,Marpalle,,3.49,17.24,35.54,19.10,67.08,0.00,10.00
+Vikarabad,Mominpet,,3.76,18.20,33.02,31.38,74.25,0.00,7.05
+Vikarabad,Nawabpet,,2.21,18.24,33.02,29.22,74.12,0.00,11.33
+Vikarabad,Pargi,,0.74,19.17,33.47,19.81,70.84,0.00,5.06
+Vikarabad,Peddemul,,1.28,18.67,33.89,22.12,70.23,0.00,6.52
+Vikarabad,Pudur,,1.52,16.95,34.34,21.62,80.24,0.21,11.69
+Vikarabad,Tandur,,1.00,18.52,34.66,23.16,73.00,0.00,0.00
+Vikarabad,Vikarabad,,1.58,18.00,33.03,19.71,76.23,0.07,13.50
+Vikarabad,Yelal,,1.51,18.00,35.27,18.91,85.22,0.00,0.00
+Wanaparthy,Amarchinta,,1.27,19.65,35.45,26.21,81.09,0.09,12.05
+Wanaparthy,Atmakur,,2.30,20.96,35.57,26.67,88.24,0.03,5.85
+Wanaparthy,Chinnambavi,,1.28,20.17,35.64,22.24,79.01,0.11,11.73
+Wanaparthy,Ghanpur,,0.56,19.68,35.04,27.31,77.13,0.00,8.05
+Wanaparthy,Gopalpeta,,0.95,19.12,33.51,23.31,81.47,0.00,8.83
+Wanaparthy,Kothakota,,0.80,19.79,36.47,29.73,86.96,0.00,4.14
+Wanaparthy,Madanapur,,1.32,20.38,35.15,25.90,87.72,0.00,3.96
+Wanaparthy,Pangal,,0.61,18.93,36.60,23.77,88.84,0.04,10.85
+Wanaparthy,Pebbair,,0.97,20.09,36.38,30.49,84.52,0.03,5.88
+Wanaparthy,Peddamandadi,,0.26,20.22,35.15,33.39,78.58,0.00,4.43
+Wanaparthy,Revelly,,0.78,19.37,33.32,33.21,81.29,0.00,8.93
+Wanaparthy,Srirangapur,,0.67,20.51,35.22,28.03,79.48,0.00,13.62
+Wanaparthy,Veepangandla,,0.84,19.91,34.40,25.45,87.90,0.13,13.03
+Wanaparthy,Wanaparthy,,0.62,19.99,35.22,27.19,73.00,0.00,0.45
+Warangal,Chennaraopeta,,1.96,19.72,34.96,39.72,96.88,0.00,5.95
+Warangal,Duggondi,,2.22,20.56,34.61,42.80,94.61,0.00,8.75
+Warangal,Geesugonda,,2.54,20.55,35.03,38.34,93.15,0.03,9.48
+Warangal,Khanapur,,3.63,20.96,33.31,34.70,88.50,0.13,12.65
+Warangal,Khilla_Warangal,,2.32,21.34,33.53,44.60,85.14,0.07,6.06
+Warangal,Nallabelly,,2.20,20.45,35.20,44.16,95.76,0.06,11.93
+Warangal,Narsampet,,3.13,21.30,32.74,44.78,93.01,0.00,11.49
+Warangal,Nekkonda,,2.60,20.14,34.27,42.56,97.18,0.00,10.23
+Warangal,Parvathagiri,,2.62,20.00,35.29,29.74,100.00,0.00,8.34
+Warangal,Raiparthy,,1.85,20.40,34.67,34.66,94.36,0.17,8.07
+Warangal,Sangem,,1.89,19.70,33.59,45.16,99.16,0.00,7.56
+Warangal,Warangal,,1.64,21.83,33.35,34.14,88.10,0.05,7.44
+Warangal,Wardhannapet,,1.94,20.71,33.71,44.28,97.98,0.07,6.85
+Yadadri Bhuvanagiri,Addagudur,,1.02,20.43,33.19,52.67,96.17,0.00,5.10
+Yadadri Bhuvanagiri,Alair,,1.47,19.45,33.73,35.51,96.30,0.00,10.93
+Yadadri Bhuvanagiri,Atmakur_M,,1.20,20.56,34.33,37.97,96.74,0.01,6.16
+Yadadri Bhuvanagiri,Bhongiri,,2.79,18.02,35.13,38.21,94.87,0.00,5.24
+Yadadri Bhuvanagiri,Bibinagar,,1.28,19.09,34.32,36.49,89.11,0.00,7.30
+Yadadri Bhuvanagiri,Bommalaramaram,,2.20,18.24,34.76,31.36,94.57,0.00,7.21
+Yadadri Bhuvanagiri,Choutuppal,,0.57,19.56,34.55,28.83,96.91,0.00,8.31
+Yadadri Bhuvanagiri,Gundala,,2.23,20.12,33.85,43.15,92.58,0.13,7.97
+Yadadri Bhuvanagiri,Mootakondur,,1.46,19.40,33.05,37.02,93.09,0.00,7.29
+Yadadri Bhuvanagiri,Mothkur,,1.79,20.12,34.82,42.20,99.13,0.00,8.28
+Yadadri Bhuvanagiri,Narayanapur,,0.89,19.45,34.64,29.13,88.99,0.00,4.62
+Yadadri Bhuvanagiri,Pochampalle,,1.16,19.52,33.48,33.22,85.20,0.00,9.98
+Yadadri Bhuvanagiri,Rajapet,,0.75,18.50,33.57,35.88,92.01,0.00,8.20
+Yadadri Bhuvanagiri,Ramannapeta,,0.74,19.41,33.89,39.30,97.39,0.28,8.21
+Yadadri Bhuvanagiri,Turkapalle_M,,1.14,20.11,33.28,38.67,86.92,0.00,3.06
+Yadadri Bhuvanagiri,Valigonda,,0.50,19.07,34.43,37.37,99.10,0.00,5.42
+Yadadri Bhuvanagiri,Yadagirigutta,,2.71,20.72,34.14,31.10,92.02,0.00,7.42
